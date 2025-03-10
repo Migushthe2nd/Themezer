@@ -30,7 +30,7 @@
         "core-js": "^2.6.5",
         "gm": "^1.23.1",
         "imagemin-webpack-plugin": "^2.4.2",
-        "marked": "^1.1.0",
+        "marked": "^2.0.0",
         "minisearch": "^2.3.1",
         "nested-object-assign": "^1.0.3",
         "nuxt": "^2.0.0",
